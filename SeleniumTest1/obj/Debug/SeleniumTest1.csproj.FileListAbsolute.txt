@@ -1,0 +1,12 @@
+C:\Users\hazi\Source\Repos\SeleniumTest1\SeleniumTest1\bin\Debug\SeleniumTest1.exe.config
+C:\Users\hazi\Source\Repos\SeleniumTest1\SeleniumTest1\bin\Debug\SeleniumTest1.exe
+C:\Users\hazi\Source\Repos\SeleniumTest1\SeleniumTest1\bin\Debug\SeleniumTest1.pdb
+C:\Users\hazi\Source\Repos\SeleniumTest1\SeleniumTest1\obj\Debug\SeleniumTest1.csprojAssemblyReference.cache
+C:\Users\hazi\Source\Repos\SeleniumTest1\SeleniumTest1\obj\Debug\SeleniumTest1.csproj.CoreCompileInputs.cache
+C:\Users\hazi\Source\Repos\SeleniumTest1\SeleniumTest1\obj\Debug\SeleniumTest1.exe
+C:\Users\hazi\Source\Repos\SeleniumTest1\SeleniumTest1\obj\Debug\SeleniumTest1.pdb
+C:\Users\hazi\Source\Repos\SeleniumTest1\SeleniumTest1\bin\Debug\WebDriver.dll
+C:\Users\hazi\Source\Repos\SeleniumTest1\SeleniumTest1\bin\Debug\WebDriver.xml
+C:\Users\hazi\Source\Repos\SeleniumTest1\SeleniumTest1\obj\Debug\SeleniumTest1.csproj.CopyComplete
+C:\Users\hazi\Source\Repos\SeleniumTest1\SeleniumTest1\bin\Debug\WebDriver.Support.dll
+C:\Users\hazi\Source\Repos\SeleniumTest1\SeleniumTest1\bin\Debug\WebDriver.Support.xml
